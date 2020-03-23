@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aezaeghae.open6.cn/sitemap.xml
